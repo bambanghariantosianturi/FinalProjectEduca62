@@ -56,7 +56,6 @@ public class TeamRepository implements TeamDataSource {
                 }
             });
         } else {
-            callback.onSuccess(null);
             callback.onFailure("......");
         }
     }
