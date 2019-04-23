@@ -29,8 +29,8 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:text="Liverpool"
-                android:textAppearance="@style/TextAppearance.AppCompat.Large"
-                android:textColor="@android:color/holo_orange_dark"
+                android:textSize="32sp"
+                android:textColor="@android:color/white"
                 android:textStyle="bold" />
 
             <TextView
@@ -52,7 +52,7 @@
                 android:layout_marginTop="72dp"
                 android:text="Medan"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large"
-                android:textColor="@android:color/holo_orange_dark"
+                android:textColor="@android:color/white"
                 android:textStyle="bold" />
 
         </FrameLayout>
